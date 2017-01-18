@@ -1,4 +1,3 @@
 # Summary
 
-* [What is XYZ?](first-question.md)
-* [How can I do X?](second-question.md)
+* [How to use GitBook?](how-to-use-gitbook.md)

@@ -1,1 +1,1 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+This book serves as my knowledge base. When I learn something new, I will log the process here.
