@@ -1,4 +1,4 @@
-### GitHub/GitBook Integration Workflow
+## How to integrate GitBook with GitHub?
 
 1. Create a new repo on Github, for example: my-gitbook-test
 1. Clone this repo:
