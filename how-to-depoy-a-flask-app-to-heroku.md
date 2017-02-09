@@ -88,6 +88,7 @@ If you don't want to use GitHub, you can deploy the app created in Part 1 direct
 ```
 cd hello-heroku
 git init
+# steps to commit the files are omitted here
 heroku apps:create hello-heroku-feici02-2
 git remote -v
 # a remote named heroku will be added to your repo automatically
