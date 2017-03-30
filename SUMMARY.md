@@ -9,3 +9,4 @@
 * [How to set up a Go environment on macOS?](how-to-set-up-go-environment.md)
 * [How to use Vagrant on macOS?](how-to-use-vagrant.md)
 * [How to use docker on macOS?](how-to-user-docker-on-macOS.md)
+* [How to use sqlite3?](how-to-use-sqlite3.md)
